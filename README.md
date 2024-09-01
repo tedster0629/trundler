@@ -282,3 +282,5 @@ option on the **New RMarkdown** dialog.
 
 *Note:* You might need to restart RStudio before the template shows up
 in the menu.
+
+Thanks.
